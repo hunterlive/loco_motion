@@ -1,2 +1,2 @@
 # loco_motion
-LocomotiveJS bloilerplate
+LocomotiveJS boilerplate
